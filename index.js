@@ -19,7 +19,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
         
         alert('INGRESO EXITOSO');
         
-        window.location.href = '../index.html';
+        window.location.href = './index.html';
     }
 });
 
